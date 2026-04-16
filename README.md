@@ -1,4 +1,4 @@
-# Vision Transformer (ViT) for Cats vs. Dogs Classification
+# Vision Transformer (ViT) for Image Classification
 
 Fine-tuned a pre-trained Vision Transformer (`google/vit-base-patch16-224`) on the Cats vs. Dogs dataset for binary image classification, and deployed the trained model as a Streamlit web app.
 
